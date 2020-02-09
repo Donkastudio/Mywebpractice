@@ -1,0 +1,15 @@
+h1 {
+  color: red;
+}
+body {
+  background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+.box1{
+    background-color: rgb(177, 184, 245);
+    padding: auto;
+    margin: auto;
+    
+}
+p{text-align: center;}
